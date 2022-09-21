@@ -4,7 +4,7 @@
 <td>
 <h1>Hi, I'm Alex!</h1>
 <p>
-I'm a junior fullstack web developer. Recently I've completed the ISDI Coders academy fullstack bootcamp, in Barcelona. I'm currently working on personal projects, consolidating my knowledge and expanding it with new tecnologies.
+I'm a junior fullstack web developer. Recently I've completed the ISDI Coders academy fullstack bootcamp, in Barcelona. I'm currently working on personal & colaborative projects, consolidating my knowledge and expanding it with new tecnologies.
 </p>
 <p>To get in touch with me:</p>
 <a href="https://www.linkedin.com/in/alexcaldasaixarch/">
