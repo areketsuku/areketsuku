@@ -5,7 +5,7 @@
     this should align left. 
   </div>
   <div align="right">
-    <iframe src="https://giphy.com/embed/765ccrAiB0g9z6EApL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/765ccrAiB0g9z6EApL">via GIPHY</a></p>
+    <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=790b7611a879a08fcb1743b7033ae0977fe66a773c8e19ac&rid=giphy.gif&ct=g" alt="programmer gif">
   </div>
 </div>
 <hr />
