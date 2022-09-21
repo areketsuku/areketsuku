@@ -3,16 +3,6 @@
 | <div><p>I'm a junior fullstack web developer. I'm currently working on personal projects, consolidating my knowledge and expanding it with new tecnologies.</p><p>To get in touch with me:</p><a href="https://www.linkedin.com/in/alexcaldasaixarch/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/alexcaldasaixarch/"/></a><a href="mailto:alexcaldasaixarch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alexcaldasaixarch@gmail.com"/></a></div> | <div> <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=790b7611a879a08fcb1743b7033ae0977fe66a773c8e19ac&rid=giphy.gif&ct=g" width="300" alt="programmer gif"></div> |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-
-<table style="background:: transparent;">
-    <tbody>
-        <tr style="border: 1px red solid;">
-            <td  style="border:  1px red solid;" colspan="2">this should go left</td>
-            <td  style="border:  1px red solid;">this should go right</td>
-        </tr>
-    </tbody>
-</table>
-
 ## Main stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
