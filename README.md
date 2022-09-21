@@ -31,7 +31,7 @@ align="right"
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <h2>Tecnologies I use:</h2>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -59,4 +59,3 @@ align="right"
 </tr>
 </tbody>
 </table>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areketsuku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
