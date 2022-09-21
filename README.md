@@ -2,6 +2,7 @@
 
 <div>
     <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=790b7611a879a08fcb1743b7033ae0977fe66a773c8e19ac&rid=giphy.gif&ct=g" width="300" alt="programmer gif" align="right" />
+    <br />
     <p> I'm a junior fullstack web developer. Recently I've ended the fullstack bootcamp on ISDI Coders academy, in Barcelona. I'm currently working on personal projects, consolidating my knowledge and expanding it with new tecnologies.</p>
     <p>To get in touch with me:</p>
     <a href="https://www.linkedin.com/in/alexcaldasaixarch/">
