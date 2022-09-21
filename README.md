@@ -23,7 +23,7 @@ alt="alexcaldasaixarch@gmail.com"
 </td>
 <td>
 <img
-src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=790b7611a879a08fcb1743b7033ae0977fe66a773c8e19ac&rid=giphy.gif&ct=g"
+src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47mmksxqymlbw3krumlvw2649fispvoioao4rjan9s&rid=giphy.gif&ct=g"
 width="300"
 alt="programmer gif"
 align="right"
