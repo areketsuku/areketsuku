@@ -1,4 +1,8 @@
-# Hi, I'm Alex!
+<table>
+    <tbody>
+        <tr>
+        
+    # Hi, I'm Alex!
 
 <div>
     <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=790b7611a879a08fcb1743b7033ae0977fe66a773c8e19ac&rid=giphy.gif&ct=g" width="300" alt="programmer gif" align="right" />
@@ -13,7 +17,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alexcaldasaixarch@gmail.com" />
     </a>
 </div>
-
+            
+        </tr>
+        <tr>
+        
+            
 ## Tecnologies I use:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,3 +48,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+        
+        </tr>
+    </tbody>
+</table>
+
