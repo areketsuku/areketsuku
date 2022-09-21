@@ -1,8 +1,8 @@
 Hi, I'm Alex!
 
-| Introduction | Image |
-| :---- | ----: |
+
 | <div> <p>I'm a junior fullstack web developer. I'm currently working on personal projects, consolidating my knowledge and expanding it with new tecnologies. </p><p> To get in touch with me: <br /> <a href="https://www.linkedin.com/in/alexcaldasaixarch/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </p> </div> | <div> <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=790b7611a879a08fcb1743b7033ae0977fe66a773c8e19ac&rid=giphy.gif&ct=g" width="300" alt="programmer gif"> </div> |
+| :---- | ----: |
 
 
 ## Main stack 
