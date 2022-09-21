@@ -1,7 +1,7 @@
 Hi, I'm Alex!
 
-<div id="header">
-  <div align="left">
+<div id="header" style="display: flex; flex-direction: row;">
+  <div>
     <p>
     I'm a junior fullstack web developer. I'm currently working on personal projects, consolidating my knowledge and expanding it with new tecnologies.
     </p>
@@ -13,7 +13,7 @@ Hi, I'm Alex!
         </a>
     </p>
   </div>
-  <div align="right">
+  <div>
     <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=790b7611a879a08fcb1743b7033ae0977fe66a773c8e19ac&rid=giphy.gif&ct=g" width="300" alt="programmer gif">
   </div>
 </div>
