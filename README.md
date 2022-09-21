@@ -54,8 +54,6 @@ align="right"
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 </td>
-<td>
-  </td>
 </tr>
 </tbody>
 </table>
