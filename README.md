@@ -31,7 +31,7 @@ align="right"
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td>
 <h2>Tecnologies I use:</h2>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -53,6 +53,9 @@ align="right"
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
+</td>
+<td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areketsuku&layout=compact)](https://github.com/anuraghazra/github-readme-stats  
 </td>
 </tr>
 </tbody>
